@@ -32,6 +32,11 @@ Outline for each versions
 # Project 5
 1. Make some in-play displays that separates each turn, based on other criterion.
 2. Decide which player has won.
+3. Added additional type of cannon.
+
+# Project 6
+1. Included background music, and sound effects.
+2. Included wind, which affects the cannonball trajectory
 
 
 
@@ -40,4 +45,5 @@ Outline for each versions
 # citations
 Cannonimage
 "https://www.flaticon.com/free-icons/army" title="army icons">Army icons created by Freepik - Flaticon
+Background music : www.freetouse.com 
 

@@ -1,6 +1,7 @@
 #background image : "https://www.freepik.com/free-vector/arcade-game-world-pixel-scene_4815143.htm#query=game%20background%20pixel%20terrain&position=1&from_view=search&track=ais">Image by stockgiu
 #cannon image : "https://www.flaticon.com/free-icons/army" title="army icons">Army icons created by Freepik - Flaticon
 #cannonball image : "https://www.flaticon.com/free-icons/bomb" title="bomb icons">Bomb icons created by Freepik - Flaticon
+#terrain image : https://www.freepik.com/free-vector/computer-game-landscapes-collection_9586315.htm#page=4&query=long%20narrow%20cloud%20platform%20game%20pixel&position=2&from_view=search&track=ais">Image by macrovector
 
 import pygame
 import random
