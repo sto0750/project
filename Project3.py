@@ -151,6 +151,7 @@ class Terrrain(pygame.sprite.Sprite):
         self.rect.x = random.randrange(WIDTH - self.length)
         self.rect.y = random.randrange(int(HEIGHT/3) , HEIGHT)
         
+        #abcd
 
 
 
