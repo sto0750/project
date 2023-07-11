@@ -1,0 +1,43 @@
+Outline for each versions
+
+# Project 1
+1. make several classes : player, cannonball, terrain, and possibly items.
+2. draw terrain and see if it works.
+
+# Project 2
+1. make a cannon that shows the angle, and make it shoot.
+2. cannon should be adjustable by keyboard input.
+3. upgrade from project1 : shoot 1 cannonball at a time.
+4. Added image for the player, rotating itself as the angle varies.
+
+? How to import images of cannon?
+
+# Project 3
+1. Basic outline for two players : 
+    1-1 make two players
+    1-2 make turns based on time and shots ** might be hard
+    1-3 make a hit detection between cannonballs and terrains
+
+    1-2 : made turns based on Return key instead using Turn = 0 or 1
+
+# Project 4
+1. cannonballs should damage the other character.
+    1-1 each player has health points.
+    1-2 health points should be displayed somewhere (at the top of the screen or above each character)
+
+2. Different images for the characters.
+3. Added text beside the hp bar
+4. Included images for the background, cannons, cannonball, and terrains.
+
+# Project 5
+1. Make some in-play displays that separates each turn, based on other criterion.
+2. Decide which player has won.
+
+
+
+
+
+# citations
+Cannonimage
+"https://www.flaticon.com/free-icons/army" title="army icons">Army icons created by Freepik - Flaticon
+
