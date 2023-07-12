@@ -59,6 +59,11 @@ The main function consists of following 6 big steps.
 
 5. Drawing including drawing function at the beginning.
 
+## Explanation based on features
+
+1. Wind system
+I have applied wind system that affects the cannonballs in order to avoid simple games. I have made a class that randomly updates magnitude and direction when updated, and put wind.update() at every turn-switching situations. Once defined, wind affects the speedx and speedy value of each cannonball. Finally
+
 ## Citations
  - background image : "https://www.freepik.com/free-vector/arcade-game-world-pixel-scene_4815143.htm#query=game%20background%20pixel%20terrain&position=1&from_view=search&track=ais">Image by stockgiu
  - cannon(tank) image : "https://www.flaticon.com/free-icons/army" title="army icons">Army icons created by Freepik - Flaticon
