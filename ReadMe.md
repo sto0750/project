@@ -65,7 +65,7 @@ The main function consists of following 6 big steps.
 
 I have applied wind system that affects the cannonballs in order to avoid simple games. I have made a class that randomly updates magnitude and direction when updated, and put wind.update() at every turn-switching situations. Once defined, wind affects the speedx and speedy value of each cannonball. Finally for the players to recognize the wind, I loaded 3 images with different width to distinguish the magnitude of wind, and rotated it in the update(self) part to indicate the direction. 
 
-Here there's one technical method when using the np.arctan() function. Since the tangent function as all the real value between pi/2 and -pi/2, other half angles are not calculated, instead, pi is added or subtracted to be in between. The arrow would only point the right side. Therefore, I added the condition check of the sign of wind.x and put a minus sign in front of the wind when the wind.x is negative.
+Here there's one technical method when using the np.arctan() function. Since the tangent function as all the real value between pi/2 and -pi/2, other half angles are not calculated, instead, pi is added or subtracted to be in between. The arrow would only point the right side. Therefore, I added the condition check of the sign of wind.x and put a minus sign in front of the wind when the wind.x is negative. (or + pi to the angle)
 
 2. About the whole sequence of play
 
