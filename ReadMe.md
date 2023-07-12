@@ -69,7 +69,9 @@ I have applied wind system that affects the cannonballs in order to avoid simple
 
 The game is a turn-based game, so the key idea was to control different player according to the turn, with the same key. In order to implement it, a global variable Turn is declared to indicated whose turn is being played. I decided to use 1 for player1, and 0 for player2, in modulo 2. Because of this variable, look at the keyboard input detection part, and you can find it abnormally long.
 
-Now you neee to decide instances when the turn is switched. 
+Now you neee to decide instances when the turn is switched. Here is the point where I came out with an idea of self.shooting_chance and self.moving_restriction. So I have set so that the turn automatically switches if one used all his movement and shooting chances. Besides that, I allowed to hit return key to manually switch turns.
+
+Between each turns, I made a show_between_screen 
 
 ## Citations
  - background image : "https://www.freepik.com/free-vector/arcade-game-world-pixel-scene_4815143.htm#query=game%20background%20pixel%20terrain&position=1&from_view=search&track=ais">Image by stockgiu
