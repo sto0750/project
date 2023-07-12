@@ -84,3 +84,4 @@ Between each turns, I made a show_between_turns to show whose turn it is. Now as
  - cannonball image : "https://www.flaticon.com/free-icons/bomb" title="bomb icons">Bomb icons created by Freepik - Flaticon
  - terrain image : https://www.freepik.com/free-vector/computer-game-landscapes-collection_9586315.htm#page=4&query=long%20narrow%20cloud%20platform%20game%20pixel&position=2&from_view=search&track=ais">Image by macrovector
  - Background music : https://freetouse.com/music
+ - Everything else is hand maded.
